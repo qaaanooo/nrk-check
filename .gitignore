@@ -1,0 +1,27 @@
+# Bytecode Python
+__pycache__/
+*.py[cod]
+
+# File konfigurasi virtual environment
+.env/
+venv/
+env/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Sistem operasi tertentu
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# File editor tertentu
+.idea/
+.vscode/
+
+# Files that might store sensitive data
+*.sqlite
+*.db
+
+# Pengguna lain tidak perlu melacak file tertentu
+*.log
